@@ -1,0 +1,8 @@
+Debug
+Release
+bin
+obj
+*.suo
+legacy
+CS
+*.user
